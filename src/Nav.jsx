@@ -38,7 +38,7 @@ const Nav = () => {
           <a href="#" className="transition-all duration-350 hover:text-purple-600">Login</a>
           
           {/* Get started button*/}
-          <button className="btn h-11 rounded-full border-none bg-gradient-to-r from-[#6230fc] to-[#a33efa] px-8 text-[15px] font-medium text-white transition-all duration-350 hover:opacity-80 ">
+          <button className="btn h-11 rounded-full border-none bg-linear-to-r from-[#6230fc] to-[#a33efa] px-8 text-[15px] font-medium text-white transition-all duration-350 hover:opacity-80 ">
             Get Started
           </button>
           
