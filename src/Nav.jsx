@@ -3,7 +3,7 @@ import React from 'react';
 const Nav = () => {
   return (
 
-    <header className="flex w-full justify-center bg-white text-black">
+    <header className="flex w-full justify-center bg-white text-black border-b border-b-gray-200">
       <nav className="flex w-full max-w-[1600px] items-center justify-between px-8 py-5">
         <div className="cursor-pointer text-purple-700 bg-clip-text text-4xl font-extrabold ">
           <a href="#">DigiTools</a>
