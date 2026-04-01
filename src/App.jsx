@@ -7,6 +7,8 @@ import Stats from "./Stats.jsx";
 import Steps from "./Steps.jsx";
 import Price from "./Price.jsx";
 import CTA from "./CTA.jsx";
+import Footer from "./Footer.jsx";
+import Product from "./Product.jsx";
 
 function App() {
   return (
@@ -14,9 +16,11 @@ function App() {
       <Nav />
       <Hero />
       <Stats />
+      <Product />
       <Steps />
       <Price />
       <CTA />
+      <Footer />
     </>
   )
   
