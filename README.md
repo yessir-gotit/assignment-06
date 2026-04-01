@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🚀 DigiTools
+#  DigiTools
 
 **Premium Digital Tools & Assets Marketplace**
 
 </div>
 
-## 📖 About The Project
+##  About The Project
 
 **DigiTools** is a modern storefront interface which is designed for creators, professionals, and businesses to browse and purchase premium digital tools. From AI powered assets to productivity software, DigiTools provides a seamless browsing and shopping experience. 
 
