@@ -4,10 +4,6 @@
 
 **Premium Digital Tools & Assets Marketplace**
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![React Toastify](https://img.shields.io/badge/React_Toastify-FF4B4B?style=for-the-badge&logo=react&logoColor=white)](#)
-
 </div>
 
 ## 📖 About The Project
@@ -18,20 +14,20 @@ Built with performance and user interface in mind. This project features a fully
 
 ---
 
-## ✨ Top 3 Features
+##  Top 3 Features
 
-1. 🛒 **Dynamic Shopping Cart System**
+1.  **Dynamic Shopping Cart System**
    Users can seamlessly toggle between the product catalog and their cart. Items can be added or removed on real time updates and automatic price calculations before checkout.
 
-2. 🔔 **Interactive Toast Notifications**
+2.  **Interactive Toast Notifications**
    Used `react-toastify` to provide instant, satisfying visual feedback. Users get notified immediately when items are successfully added to the cart, removed, or if an item is already in their cart.
 
-3. 📱 **Pixel-Perfect Responsive UI**
+3.  **Pixel-Perfect Responsive UI**
    Crafted with a mobile first approach. From the collapsible hamburger navigation to the dynamic product grids and pricing cards, the layout adapts beautifully to any screen size.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 This project was built using modern web development standards and libraries:
 
